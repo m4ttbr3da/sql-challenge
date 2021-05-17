@@ -1,4 +1,4 @@
-# SQL Project - Employee Database: A Mystery in Two Parts
+# SQL Project - Employee Database
 
 ![image](https://user-images.githubusercontent.com/69601778/118566392-a3d2ad00-b728-11eb-9f8e-d406309a115f.png)
 
